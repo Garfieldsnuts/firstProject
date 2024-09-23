@@ -5,7 +5,7 @@ public class MainControl {
         new Person();
         new Person();
         new Person();
-        new Fahrzeug();
+        //new Fahrzeug();
         halloWelt();
     }
     private static void halloWelt(){
